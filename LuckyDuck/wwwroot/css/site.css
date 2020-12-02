@@ -1,0 +1,55 @@
+﻿body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Cursive;
+    background-image:url(/images/bg3.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.RenderBody {
+    width: 1100px;
+    height: 550px;
+    background-color: rgb(237, 237, 237, .8);
+    margin-top: 4%;
+    border: 1px solid #FAD2DF;
+    border-radius: 15px;
+}
+.headerBox {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+    .headerBox img {
+        width: 88px;
+        height: 63px;
+    }
+li {
+    padding: 0px;
+    border: 1px solid #ABABAB;
+    margin: 15px;
+    width: 100px;
+    text-align: center;
+    background: none;
+    border-radius: 10px 0;
+    color: #FF3D78;
+}
+a {
+    text-decoration: none;
+    color: #FF3D78;
+}
+    a:hover {
+        color: #FF3D78;
+    }
+li:hover {
+    background-color: rgb(208, 208, 208,.8);
+    color: black;
+    transition: 0.5s;
+}
+.PicAndRender{
+    margin:10px;
+}
+.image img {
+    width: 480px;
+    height: 340px;
+    margin-left: 160px;
+    border-radius: 0 210px;
+}

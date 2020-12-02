@@ -1,0 +1,57 @@
+﻿.indexpage{
+    width:400px;
+}
+button {
+    border: 1px solid #ABABAB;
+    width: 135px;
+    text-align: center;
+    background: none;
+    border-radius: 10px 0;
+    color: #FF3D78;
+    outline: none;
+    height: 43px;
+}
+    button:hover {
+        background-color: rgb(208, 208, 208,.8);
+    }
+    button:hover {
+        background-color: none;
+        transition: 0.5s;
+        width: 150px;
+        outline: none;
+    }
+th, td {
+    padding: 2px;
+    border: 1px solid #ABABAB;
+}
+.modal-content {
+    background-color: rgb(237, 237, 237, .8);
+    ;
+}
+input {
+    background: transparent;
+    border: none;
+    margin: 15px;
+    outline: none;
+    border-bottom: 1px solid gray;
+    width: 430px;
+}
+label {
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 18px;
+}
+.privacystyle {
+    width: 400px;
+    text-align: center;
+    margin-top: 60px;
+}
+select {
+    background: transparent;
+    border: none;
+    margin: 15px;
+    outline: none;
+    border-bottom: 1px solid gray;
+    width: 430px;
+}
+
